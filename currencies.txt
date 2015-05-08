@@ -1,0 +1,22 @@
+Country               currency
+
+Italy                 Euro
+
+SriLanka              rupee
+
+Bangladesh            taka
+
+Pakistan              rupee
+
+Australia             dollar
+
+UK                    Pound 
+
+Singapore             dollar
+
+Malaysian             Ringgit
+
+New Zealand           dollar
+
+United Arab Emirates    dirham
+
